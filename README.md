@@ -4,6 +4,8 @@ Spatiotemporal Groundwater status modeeling using Deep Learning and Geostatistic
 
 Toolkit:
 
+<img src="https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/0e525704-50c7-4cfe-9817-f24d1e9a9e5c" width="300"/>
+
 ![download (1)](https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/0e525704-50c7-4cfe-9817-f24d1e9a9e5c)
 ![download (2)](https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/3744790d-be03-46ab-8637-8d67b338d961)
 ![images](https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/e09e519d-832e-40be-934b-e3078120640a)
