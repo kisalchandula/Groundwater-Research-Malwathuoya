@@ -18,7 +18,7 @@ Spatiotemporal Groundwater Variation:
 
 Prediction Map (Given month = 30):
 
-<img src="https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/f7f14146-29a1-4cbc-bf7b-66b311bb2d62" width="425"/>
-<img src="https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/fe6c8a89-90c6-46f4-ba71-57d71bc24733" width="425"/> 
+<img src="https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/f7f14146-29a1-4cbc-bf7b-66b311bb2d62" width="220"/>
+<img src="https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/fe6c8a89-90c6-46f4-ba71-57d71bc24733" width="220"/> 
 
 
