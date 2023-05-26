@@ -21,4 +21,3 @@ Prediction Map (Given month = 30):
 ![Picture2](https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/f7f14146-29a1-4cbc-bf7b-66b311bb2d62)
 ![Picture3](https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/fe6c8a89-90c6-46f4-ba71-57d71bc24733)
 
-![Prediction_Map_month-30](https://github.com/kisalchandula/Groundwater-Research-Malwathuoya/assets/62669106/05e6beda-8a8b-46fc-a131-6ba7a716d3e5)
